@@ -11,6 +11,5 @@ There are four projects in total. For each project, you will find:
 * Datasets
 * All related materials
 
-All resources for the course assignments are organized here for reference and further development.
 
 
