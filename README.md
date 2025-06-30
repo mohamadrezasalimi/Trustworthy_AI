@@ -30,6 +30,24 @@ In this project, we explore the **interpretability of neural network models**.
 
 * In the first question, we examine the interpretability of neural networks using tabular data and compare several different interpretability methods.
 * In the second question, we focus on interpretability in the context of image data.
+Certainly! Here is a professional and clear English version for your README:
+
+---
+
+## CA3
+
+In this project, the main objective is to achieve a deeper understanding of **causal relationships** among variables and to interpret models through these causal links.
+By incorporating causality into interpretability, we can gain more profound insights into complex phenomena and make better-informed decisions regarding potential interventions.
+
+Certainly! Here is a clear and professional English version for your README:
+
+---
+
+## CA4
+
+The goal of this project is to investigate and implement key topics in **Security**, **Privacy**, and **Fairness** within machine learning models and neural networks.
+
+
 
 
 
